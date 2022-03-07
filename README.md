@@ -10,5 +10,6 @@
 |1 주차| <strong>파이썬 기초 문법</strong> | [!15552](src/!15552.py), [1002](src/1002.py), [1110](src/1110.py), [1316](src/1316.py), [1546](src/1546.py), [2562](src/2562.py), [2577](src/2577.py), [2588](src/2588.py), [2753](src/2753.py),<br>[2884](src/2884.py), [2941](src/2941.py), [3052](src/3052.py), [9498](src/9498.py), [10430](1src/0430.py), [10951](src/10951.py), [14681](src/14681.py), [15596](src/15596.py)|
 |2 주차| <strong>[재귀](https://jangbageum.tistory.com/14)와 [브루트포스](https://jangbageum.tistory.com/15)</strong> | [10872-피보나치](src/10872.py), [11729-하노이탑](src/11729.py) / [2798-블랙잭](src/2798.py), [2231-분해합](src/2231.py)|
 |3 주차|[정렬 알고리즘](https://jangbageum.tistory.com/16)|[2750-수 정렬하기](src/2750.py), [10989-수 정렬하기3](src/10989.py), [1427-소트인사이트](src/1427.py),<br>[11651-좌표 정렬하기2](src/11651.py), [10814-나이순 정렬](src/10814.py)|
-|4주차|[백트래킹](https://jangbageum.tistory.com/18)|[15649-N과 M (1)](src/15649.py), [15651-N과 M (3)](src/15651.py),
+|4 주차|[백트래킹](https://jangbageum.tistory.com/18)|[15649-N과 M (1)](src/15649.py), [15651-N과 M (3)](src/15651.py), |
+|5 주차|[그리디 알고리즘](https://jangbageum.tistory.com/19)|
 
