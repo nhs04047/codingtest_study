@@ -11,5 +11,5 @@
 |2 주차| <strong>[재귀](https://jangbageum.tistory.com/14)와 [브루트포스](https://jangbageum.tistory.com/15)</strong> | [10872-피보나치](src/10872.py), [11729-하노이탑](src/11729.py) / [2798-블랙잭](src/2798.py), [2231-분해합](src/2231.py)|
 |3 주차|[정렬 알고리즘](https://jangbageum.tistory.com/16)|[2750-수 정렬하기](src/2750.py), [10989-수 정렬하기3](src/10989.py), [1427-소트인사이트](src/1427.py),<br>[11651-좌표 정렬하기2](src/11651.py), [10814-나이순 정렬](src/10814.py)|
 |4 주차|[백트래킹](https://jangbageum.tistory.com/18)|[15649-N과 M (1)](src/15649.py), [15651-N과 M (3)](src/15651.py), |
-|5 주차|[그리디 알고리즘](https://jangbageum.tistory.com/19)|[11047-동전 0](src/11047.py)|
+|5 주차|[그리디 알고리즘](https://jangbageum.tistory.com/19)|[11047-동전 0](src/11047.py), [11399-ATM](src/11399.py)|
 
