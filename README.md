@@ -33,4 +33,4 @@
 
 |주차|주제|문제|
 |:---:|:---:|---|
-|2주차|[스택](https://jangbageum.tistory.com/21)/큐|[카드2](src/baekjoon/2164.py)
+|2주차|[스택](https://jangbageum.tistory.com/21) / [큐](https://jangbageum.tistory.com/22)|[카드2](src/baekjoon/2164.py)
