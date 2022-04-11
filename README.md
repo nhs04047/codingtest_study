@@ -26,7 +26,7 @@
 |:---:|:---:|---|
 |1 주차_1|<strong>[해시](https://jangbageum.tistory.com/20)</strong>| [완주하지 못한 선수](src/programmers/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.py), [전화번호 목록](src/programmers/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py), [위장](src/programmers/%EC%9C%84%EC%9E%A5.py)|
 |1 주차_2|[스택](https://jangbageum.tistory.com/21) / [큐](https://jangbageum.tistory.com/22)|[기능개발](src/programmers/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py), [프린터](src/programmers/%ED%94%84%EB%A6%B0%ED%84%B0.py), [다리를 지나는 트럭](src/programmers/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.py)|
-|2 주차_1|힙|[더 맵게](src/programmers/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py)|
+|2 주차_1|[힙](https://jangbageum.tistory.com/23)|[더 맵게](src/programmers/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py)|
 
 <br>
 
