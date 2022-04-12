@@ -32,6 +32,7 @@
 
 - 추가 문제
 
-|주차|주제|문제|
-|:---:|:---:|---|
-|1주차|[스택](https://jangbageum.tistory.com/21) / [큐](https://jangbageum.tistory.com/22)|[카드2](src/baekjoon/2164.py)
+|주차|문제|
+|:---:|---|
+|1 주차|[2164-카드2](src/baekjoon/2164.py)|
+|2 주차|[1417-국회의원 선거](src/baekjoon/1417.py)
