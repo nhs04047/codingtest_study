@@ -30,6 +30,7 @@
 |2 주차_2|정렬|[k번째 수](src\programmers\k번째수.py), [가장 큰 수](src\programmers/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py), [H-index](src\programmers\H-index.py)|
 |3 주차_1|[완전탐색](https://jangbageum.tistory.com/15)|[모의고사](src\programmers\모의고사.py), [소수 찾기](src\programmers/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py), [카펫](src\programmers\카펫.py)|
 |3 주차_2|[탐욕법](https://jangbageum.tistory.com/19)|[체육복](src\programmers\체육복.py), [큰 수 만들기](src/programmers/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py), [구명보트](src\programmers\구명보트.py)|
+|4 주차_1|동적계획법|[N으로 표현](src/programmers/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.py)|
 
 <br>
 
