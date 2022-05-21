@@ -31,7 +31,7 @@
 |3 주차_1|[완전탐색](https://jangbageum.tistory.com/15)|[모의고사](src\programmers\모의고사.py), [소수 찾기](src\programmers/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.py), [카펫](src\programmers\카펫.py)|
 |3 주차_2|[탐욕법](https://jangbageum.tistory.com/19)|[체육복](src\programmers\체육복.py), [큰 수 만들기](src/programmers/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py), [구명보트](src\programmers\구명보트.py)|
 |4 주차_1|동적계획법|[N으로 표현](src/programmers/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.py), [정수 삼각형](src/programmers/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.py), [등굣길](src\programmers\등굣길.py)|
-|4 주차_2|깊이/너비 우선 탐색(DFS/BFS)|[타겟 넘버](src\programmers/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.py), [네트워크](src\programmers\네트워크.py)|
+|4 주차_2|깊이/너비 우선 탐색(DFS/BFS)|[타겟 넘버](src\programmers/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.py), [네트워크](src\programmers\네트워크.py), [던어 변환](src\programmers/%EB%8B%A8%EC%97%AC%20%EB%B3%80%ED%99%98.py)|
 
 <br>
 
