@@ -3,7 +3,7 @@
 
 - python
 
-🚀 2022-05-24 : 2차 스터디 5주차_1 주제 완료
+🚀 2022-05-25 : 2차 스터디 5주차_1 주제 완료
 
 <br>
 
@@ -32,7 +32,7 @@
 |3 주차_2|[탐욕법](https://jangbageum.tistory.com/19)|[체육복](src\programmers\체육복.py), [큰 수 만들기](src/programmers/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py), [구명보트](src\programmers\구명보트.py)|
 |4 주차_1|동적계획법|[N으로 표현](src/programmers/N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.py), [정수 삼각형](src/programmers/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.py), [등굣길](src\programmers\등굣길.py)|
 |4 주차_2|깊이/너비 우선 탐색(DFS/BFS)|[타겟 넘버](src\programmers/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.py), [네트워크](src\programmers\네트워크.py), [던어 변환](src\programmers/%EB%8B%A8%EC%97%AC%20%EB%B3%80%ED%99%98.py)|
-|5 주차_1|이분탐색|[입국심사](src\programmers\입국심사.py)|
+|5 주차_1|이분탐색|[입국심사](src\programmers\입국심사.py), [징검 다리](src\programmers/%EC%A7%95%EA%B2%80%20%EB%8B%A4%EB%A6%AC.py)|
 
 <br>
 
