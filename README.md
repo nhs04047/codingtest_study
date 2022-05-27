@@ -44,4 +44,4 @@
 |1 주차|[2164-카드2](src/baekjoon/2164.py)|
 |2 주차|[1417-국회의원 선거](src/baekjoon/1417.py), [1181-단어정렬](src\baekjoon\1181.py)|
 |4 주차|[9655-돌 게임](src\baekjoon\9655.py)|
-|5 주차|[2512-예산](src\baekjoon\2512.py)|
+|5 주차|[2512-예산](src\baekjoon\2512.py), [2606-바이러스](src\baekjoon\2606.py)|
