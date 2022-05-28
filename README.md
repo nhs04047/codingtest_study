@@ -45,3 +45,8 @@
 |2 주차|[1417-국회의원 선거](src/baekjoon/1417.py), [1181-단어정렬](src\baekjoon\1181.py)|
 |4 주차|[9655-돌 게임](src\baekjoon\9655.py)|
 |5 주차|[2512-예산](src\baekjoon\2512.py), [2606-바이러스](src\baekjoon\2606.py)|
+
+- 개인 스터디
+|난이도|문제|
+|:---:|---|
+|1|[로또의 최고 순위와 최저 순위](src\programmers/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.py)|
