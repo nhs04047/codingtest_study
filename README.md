@@ -45,6 +45,7 @@
 |2 주차|[1417-국회의원 선거](src/baekjoon/1417.py), [1181-단어정렬](src\baekjoon\1181.py)|
 |4 주차|[9655-돌 게임](src\baekjoon\9655.py)|
 |5 주차|[2512-예산](src\baekjoon\2512.py), [2606-바이러스](src\baekjoon\2606.py)|
+|~~| [비밀지도](src/programmers/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.py)
 
 - 개인 스터디
 
