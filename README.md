@@ -14,7 +14,7 @@
 | 2 주차 | <strong>[재귀](https://jangbageum.tistory.com/14) / [브루트포스](https://jangbageum.tistory.com/15)</strong> | [10872-피보나치](src/baekjoon/10872.py), [11729-하노이탑](src/baekjoon/11729.py) / [2798-블랙잭](src/baekjoon/2798.py), [2231-분해합](src/baekjoon/2231.py)|
 | 3 주차 |[정렬 알고리즘](https://jangbageum.tistory.com/16) | [2750-수 정렬하기](src/baekjoon/2750.py), [10989-수 정렬하기3](src/baekjoon/10989.py), [1427-소트인사이트](src/baekjoon/1427.py),<br>[11651-좌표 정렬하기2](src/baekjoon/11651.py), [10814-나이순 정렬](src/baekjoon/10814.py)|
 | 4 주차 |[백트래킹](https://jangbageum.tistory.com/18) | [15649-N과 M (1)](src/baekjoon/15649.py), [15651-N과 M (3)](src/baekjoon/15651.py), 
-| 5 주차 |[그리디 알고리즘](https://jangbageum.tistory.com/19) | [11047-동전 0](src/baekjoon/11047.py), [11399-ATM](src/baekjoon/11399.py), [1541-잃어버린 괄호](src/baekjoon/1541.py),[1931-회의실 배정](src/baekjoon/1931.py), [1026-보물](src/baekjoon/1026.py), [5585-거스름돈](src/baekjoon/5585.py), [2217-로프](src/baekjoon/2217.py), [10162-전자레인지](src/baekjoon/10162.py), [4796-캠핑](src/baekjoon/4796.py) [2864-5와 6차이](src/baekjoon/2864.py), [1543-문서 검색](src/baekjoon/1543.py), [1449-수리공 항승](src/baekjoon/1449.py) [1439-뒤집기](src/baekjoon/1439.py)|
+| 5 주차 |[그리디 알고리즘](https://jangbageum.tistory.com/19) | [11047-동전 0](src/baekjoon/11047.py), [11399-ATM](src/baekjoon/11399.py), [1541-잃어버린 괄호](src/baekjoon/1541.py),[1931-회의실 배정](src/baekjoon/1931.py), [1026-보물](src/baekjoon/1026.py), [5585-거스름돈](src/baekjoon/5585.py), [2217-로프](src/baekjoon/2217.py), [10162-전자레인지](src/baekjoon/10162.py), [4796-캠핑](src/baekjoon/4796.py) [2864-5와 6차이](src/baekjoon/2864.py), [1543-문서 검색](src/baekjoon/1543.py), [1449-수리공 항승](src/baekjoon/1449.py) [1439-뒤집기](src/baekjoon/1439.py), [1783-병든 나이트](src/baekjoon/1783.py)|
 
 <br>
 
